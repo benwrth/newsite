@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+  {%- for post in site.posts limit:1 -%}
+  <a class="post-link" href="{{ post.url | relative_url }}">
+  <div class="info-box">
+    <p class="info-box-title">LATEST POST</p>
+    <table class="post-list">
+        <tr class="post-table">
+        <td class="post-table">
+          <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+          </a>
+        </td>
+    </table>
+  </div>
+</a>
+  {%- endfor -%}
+  {%- endif -%}
+</div>
+

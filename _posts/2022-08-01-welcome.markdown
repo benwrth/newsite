@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Welcome to the new benwrth.com!"
+date:   2022-08-10 01:00:00 +0100
+categories: blog
+---
+
+Hey there! Welcome to my new and improved site! With this new design comes new features and even a new website, which I'll talk about later.
+
+If you saw my old site (which can be viewed [here](https://benwrth.github.io/old-website)) you may have noticed there are a few quality of life features such as light/dark mode, customisable accent colors and more. I am considering bring these to this site as well, but for now, you'll have to stick with the (rather appealing, in my opinion) default theme.
+
+## About the site
+My new site is built using Jekyll, a static blogging platform using a theme I made by modifying the default theme of Minima. While right now, the features are pretty standard, I am looking at ways I can improve this theme to make this site a better place (for example, custom theme options as mentioned previously). The site is hosted using GitHub pages and the repo for it can be found at [benwrth/website](https://github.com/benwrth/website)
+
+## Blog
+Like I have already mentioned, Jekyll is primarily used to be a blogging platform, which I am going to be using it for. I will be posting occasionally about cool thing in the IT and Security industry and maybe a few random guides along the way. While there may not necessarily be a strict theme or time-frame for the posts, I am going to try and keep them fairly consistent in both fields.
+
+## Services
+Following the release of this new site, I will no longer be offering my services on benwrth.com, instead opting to dedicate a whole website to things which I do/sell/make. This can be found at [bywrth.com](https://bywrth.com) (The site may not be ready when this post is published - I'll update this post after it is finished).
+
+## Feedback
+While it's highly unlikely you will find anything, if you do find a bug or flaw on this site, or have any other feedback, feel free to send me an email at [ben@wrth.me](mailto:ben@wrth.me) and I'll work on fixing it.
+
+Enjoy!
